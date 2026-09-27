@@ -1,0 +1,6 @@
+.env
+*.log
+credentials*
+token*
+cookies*
+__pycache__/
