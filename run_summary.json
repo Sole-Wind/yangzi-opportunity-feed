@@ -5,6 +5,7 @@
   "last_successful_batch": "20260927T102943092933Z-6e67efcd",
   "new_projects": 894,
   "schema_version": 1,
+  "snapshot_index": "latest/index.json",
   "started_at": null,
   "started_at_known": false,
   "status": "success",

@@ -5,9 +5,21 @@
       "id": "20260927T102943092933Z-6e67efcd",
       "new_count": 894,
       "new_projects": "archive/20260927T102943092933Z-6e67efcd/new_projects.json",
+      "new_projects_parts": [
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0001.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0002.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0003.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0004.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0005.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0006.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0007.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0008.json",
+        "archive/20260927T102943092933Z-6e67efcd/parts/new_projects-0009.json"
+      ],
       "status": "success",
       "updated_count": 0,
-      "updated_projects": "archive/20260927T102943092933Z-6e67efcd/updated_projects.json"
+      "updated_projects": "archive/20260927T102943092933Z-6e67efcd/updated_projects.json",
+      "updated_projects_parts": []
     }
   ],
   "generated_at": "2026-09-27T18:29:43+08:00",
