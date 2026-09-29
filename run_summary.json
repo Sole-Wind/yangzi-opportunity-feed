@@ -1,14 +1,13 @@
 {
-  "batch_id": "20260929T140157418036Z-4e7bb29f",
-  "completed_at": "2026-09-29T22:01:57+08:00",
+  "completed_at": "2026-09-29T22:36:18+08:00",
+  "crawler_exit_code": 1,
+  "failure": "crawler_failed",
   "last_success_at": "2026-09-29T22:01:57+08:00",
   "last_successful_batch": "20260929T140157418036Z-4e7bb29f",
   "new_projects": 0,
   "schema_version": 1,
-  "snapshot_index": "latest/index.json",
-  "started_at": "2026-09-29T22:00:38+08:00",
-  "started_at_known": true,
-  "status": "success",
+  "started_at": "2026-09-29T22:35:28+08:00",
+  "status": "failed",
   "total_projects": 894,
   "updated_projects": 0
 }
