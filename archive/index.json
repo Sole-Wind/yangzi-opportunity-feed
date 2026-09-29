@@ -20,9 +20,20 @@
       "updated_count": 0,
       "updated_projects": "archive/20260927T102943092933Z-6e67efcd/updated_projects.json",
       "updated_projects_parts": []
+    },
+    {
+      "completed_at": "2026-09-29T22:01:57+08:00",
+      "id": "20260929T140157418036Z-4e7bb29f",
+      "new_count": 0,
+      "new_projects": "archive/20260929T140157418036Z-4e7bb29f/new_projects.json",
+      "new_projects_parts": [],
+      "status": "success",
+      "updated_count": 0,
+      "updated_projects": "archive/20260929T140157418036Z-4e7bb29f/updated_projects.json",
+      "updated_projects_parts": []
     }
   ],
-  "generated_at": "2026-09-27T18:29:43+08:00",
-  "latest_successful_batch": "20260927T102943092933Z-6e67efcd",
+  "generated_at": "2026-09-29T22:01:57+08:00",
+  "latest_successful_batch": "20260929T140157418036Z-4e7bb29f",
   "schema_version": 1
 }

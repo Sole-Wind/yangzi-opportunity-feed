@@ -1,26 +1,26 @@
 {
-  "batch_id": "20260927T102943092933Z-6e67efcd",
-  "completed_at": "2026-09-27T18:29:43+08:00",
+  "batch_id": "20260929T140157418036Z-4e7bb29f",
+  "completed_at": "2026-09-29T22:01:57+08:00",
   "parts": [
     {
       "count": 100,
       "path": "latest/parts/all_projects-0001.json",
-      "sha256": "8770e10354b3775bf68a6f996f963c2ae06c256da485d18c4c9680c0f3a3d59f"
+      "sha256": "4b70524814d7472cb3373f759a520d3ae8194d137212d682577067feb9e78bf7"
     },
     {
       "count": 100,
       "path": "latest/parts/all_projects-0002.json",
-      "sha256": "6b20fc37c29b222a3d971449a33cdb3a1a1249fc7dc43db08772223aeffc92c1"
+      "sha256": "39dbdda6c078d26e4e347c03f88c9ea44875a62bbc788d82264500ace08c1011"
     },
     {
       "count": 100,
       "path": "latest/parts/all_projects-0003.json",
-      "sha256": "73469b21b5d847f1093fb0c3b27557e20c4b39423b48fd60643f88389164f934"
+      "sha256": "a3289c3eef06faa1a5d648dfb5716167068a0bd3c2c115ac2bd7b0eb1211e927"
     },
     {
       "count": 100,
       "path": "latest/parts/all_projects-0004.json",
-      "sha256": "e86f3f798dfefae2715fdb4d244e7eace9ebb22fedb36bcd7a887888eae1c086"
+      "sha256": "7541e4b1c3c7c52b59aa1cdb1cfbaefa11f58574fb25f7f17ad43ad99fd2cc1e"
     },
     {
       "count": 100,
