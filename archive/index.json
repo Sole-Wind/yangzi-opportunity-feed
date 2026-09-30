@@ -42,9 +42,20 @@
       "updated_count": 0,
       "updated_projects": "archive/20260929T144401903326Z-dbdd178d/updated_projects.json",
       "updated_projects_parts": []
+    },
+    {
+      "completed_at": "2026-09-30T20:05:04+08:00",
+      "id": "20260930T120504827139Z-510ee459",
+      "new_count": 0,
+      "new_projects": "archive/20260930T120504827139Z-510ee459/new_projects.json",
+      "new_projects_parts": [],
+      "status": "success",
+      "updated_count": 0,
+      "updated_projects": "archive/20260930T120504827139Z-510ee459/updated_projects.json",
+      "updated_projects_parts": []
     }
   ],
-  "generated_at": "2026-09-29T22:44:01+08:00",
-  "latest_successful_batch": "20260929T144401903326Z-dbdd178d",
+  "generated_at": "2026-09-30T20:05:04+08:00",
+  "latest_successful_batch": "20260930T120504827139Z-510ee459",
   "schema_version": 1
 }

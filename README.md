@@ -8,6 +8,11 @@ fees, funding and application instructions must be verified on official project
 pages. This mirror supports personal research opportunity screening.
 
 Read `run_summary.json` to check freshness and collection status.
+The separate `wechat/` folder contains public article metadata from the
+ChangJiangLab WeChat account when the local subscription is configured.
+Its `run_summary.json` reports subscription health; `archive/index.json`
+lists incremental article batches. No WeRead credentials or article bodies
+are published.
 Read `latest/all_projects.json` for the initial snapshot, then
 `archive/index.json` for the chronological history of successful batches.
 For tools with file-size limits, use `latest/index.json` and its small parts.

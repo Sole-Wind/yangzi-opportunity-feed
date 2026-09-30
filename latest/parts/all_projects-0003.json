@@ -1,30 +1,6 @@
 [
   {
     "applyEmail": "",
-    "applyLink": "https://www.icccs.org/date.html",
-    "city": "广东·深圳",
-    "college": "ICCCS 2027组委会（深圳大学主办）",
-    "content_hash": "60b51decf925190c75432772c7e063b5f55375b287ae9a060d4dcae0aa232693",
-    "createdAt": 1788483295075,
-    "deadline": "2026年10月20日",
-    "details": "ICCCS 2027（International Conference on Computer and Communication Systems）由深圳大学主办，将于2027年4月16-19日以线上线下结合方式举行，议题覆盖计算机与通信系统的理论、实验与应用方向。论文投稿截止2026年10月20日，录用通知2026年11月20日，录用论文注册截止2026年12月5日；非投稿者可作为听众注册参会（听众注册截止2027年4月11日）。",
-    "duration": "2027年4月16-19日",
-    "fee": "投稿免费，录用后按官网标准缴纳注册费",
-    "format": "线上+线下（hybrid）",
-    "id": "6a78a8c8",
-    "project": "ICCCS 2027国际计算机与通信系统会议（中国·深圳）",
-    "quota": "不限",
-    "requirements": "通过会议官网投稿系统提交英文论文，录用后于2026年12月5日前完成注册；听众参会须于2027年4月11日前完成注册。",
-    "target": "高校师生及科研机构研究人员（投稿或注册参会）",
-    "university": "深圳大学",
-    "valueTags": [
-      "深圳大学",
-      "计算机会议",
-      "学术发表"
-    ]
-  },
-  {
-    "applyEmail": "",
     "applyLink": "https://gsis.yonsei.ac.kr/winter/",
     "city": "韩国·首尔",
     "college": "国际事务处（Winter Abroad at Yonsei）",
@@ -2399,6 +2375,30 @@
       "亚利桑那州立大学官方",
       "冬季学校",
       "材料科学"
+    ]
+  },
+  {
+    "applyEmail": "",
+    "applyLink": "https://www.daf.uni-mannheim.de/en/index.php/international-winter-academy/",
+    "city": "德国·曼海姆",
+    "college": "International Winter Academy (IWA)",
+    "content_hash": "39e04a74b900d6af239eeb7d3327a00bc6f9e5cc4538ccaae74ccf0ea8537bf6",
+    "createdAt": 1788135538873,
+    "deadline": "2026年12月15日",
+    "details": "曼海姆大学国际冬季学院 IWA 2027 于 2027 年 1 月 11 日至 2 月 5 日举办，面向全球学生开设德语语言文化与跨文化课程，注册截止 2026 年 12 月 15 日。",
+    "duration": "2027年1月11日-2月5日",
+    "fee": "课程费以官方为准",
+    "format": "线下（德国·曼海姆）",
+    "id": "211b5c86",
+    "project": "International Winter Academy 2027（曼海姆国际冬季学院）",
+    "quota": "",
+    "requirements": "通过曼海姆大学官网 IWA 页面在线注册并提交申请材料，注册截止 2026 年 12 月 15 日。",
+    "target": "全球在读大学生及德语文化学习者",
+    "university": "曼海姆大学（Universität Mannheim）",
+    "valueTags": [
+      "曼海姆大学官方",
+      "冬季学院",
+      "德语课程"
     ]
   }
 ]

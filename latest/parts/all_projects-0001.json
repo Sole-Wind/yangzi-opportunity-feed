@@ -1,30 +1,6 @@
 [
   {
     "applyEmail": "",
-    "applyLink": "https://www.marshallscholarship.org/",
-    "city": "英国",
-    "college": "Marshall Scholarship 秘书处",
-    "content_hash": "720cb090ffba714023867a3fb58cdfa6d003ee3da373d5315b0178a1aee7243f",
-    "createdAt": 1788147167388,
-    "deadline": "2026年9月29日（申请人/推荐人，以官网为准）",
-    "details": "马歇尔奖学金（Marshall Scholarship）资助优秀的美国公民赴英国大学攻读研究生学位（硕士或博士），覆盖全部学费、生活津贴、差旅与相关费用，每年名额约 40 个，是美英之间最负盛名的奖学金之一。2027 年度申请于 2026 年 5 月开放，申请人及推荐人截止日期为 2026 年 9 月 29 日，其余材料 10 月 1 日截止（以官网为准）。",
-    "duration": "2027年秋季入学，2-3年（以官网为准）",
-    "fee": "免费（全额奖学金）",
-    "format": "线下（英国大学，研究生2-3年）",
-    "id": "e88136e7",
-    "project": "Marshall Scholarship 2027（美国→英国·研究生全奖）",
-    "quota": "约40人/年",
-    "requirements": "通过所在大学奖学金办公室提名或直接向马歇尔奖学金委员会提交在线申请，需提供成绩单、推荐信与个人陈述。",
-    "target": "美国公民（本科毕业成绩优异，通常 GPA 3.7 以上）",
-    "university": "马歇尔奖学金委员会（Marshall Aid Commemoration Commission）",
-    "valueTags": [
-      "马歇尔奖学金官方",
-      "全额奖学金",
-      "英美留学"
-    ]
-  },
-  {
-    "applyEmail": "",
     "applyLink": "https://www.gsc.org.cn/gsc/xueshuDetail.html?id=54&contentId=2452",
     "city": "南京",
     "college": "南京大学地理与海洋科学学院（承办）",
@@ -838,6 +814,78 @@
       "5万美元奖金",
       "AI与数据实战",
       "全球竞赛"
+    ]
+  },
+  {
+    "applyEmail": "",
+    "applyLink": "https://www.rsna.org/annual-meeting",
+    "city": "美国·芝加哥",
+    "college": "RSNA 2026 组委会",
+    "content_hash": "a66561f8d8edd03551abf46fc39851888925cfc838d8ebd09fbcbf9bf396bdd7",
+    "createdAt": 1788145149888,
+    "deadline": "2026年10月2日（提前注册优惠截止）",
+    "details": "RSNA 2026 年会将于 2026 年 11 月 29 日至 12 月 3 日在美国芝加哥麦考密克会展中心举行，是国际放射学与医学影像领域规模最大的年度学术会议，涵盖影像诊断、介入放射、放射治疗、人工智能影像分析等方向；注册现已开放，10 月 2 日前注册可享早鸟优惠，官网是唯一官方注册渠道。",
+    "duration": "2026年11月29日-12月3日",
+    "fee": "注册费（早鸟优惠至10月2日）",
+    "format": "线下（美国·芝加哥）",
+    "id": "1f0f7d86",
+    "project": "RSNA 2026 第112届科学大会与年会（美国·芝加哥）",
+    "quota": "",
+    "requirements": "在 RSNA 官网注册账号并完成在线注册缴费，非会员亦可参会。",
+    "target": "全球放射科医师、医学影像研究人员、工程师及相关专业学生",
+    "university": "北美放射学会（RSNA）",
+    "valueTags": [
+      "RSNA官方",
+      "国际会议",
+      "医学影像"
+    ]
+  },
+  {
+    "applyEmail": "",
+    "applyLink": "http://dgyj.dlu.edu.cn/info/1009/1206.htm",
+    "city": "中国·大连",
+    "college": "小岛屿区域国别研究联盟（岛国研究中心）",
+    "content_hash": "a4447f5b8c369c63a90012ea7417dd06c1801a7ca76fae08ca95ac5a3e2cf1ad",
+    "createdAt": 1788136978689,
+    "deadline": "2026年10月2日",
+    "details": "小岛屿区域国别研究联盟拟于 2026 年 10 月举办第三届小岛屿国家和地区研究学术论坛暨联盟年会，聚焦全球海洋治理与小岛屿区域国别研究，限 100 人参会，回执提交截止 2026 年 10 月 2 日。",
+    "duration": "2026年10月",
+    "fee": "以论坛通知为准",
+    "format": "线下（以通知为准）",
+    "id": "8586a4ca",
+    "project": "第三届小岛屿国家和地区研究学术论坛暨小岛屿区域国别研究联盟年会",
+    "quota": "限100人",
+    "requirements": "于 2026 年 10 月 2 日前将参会回执发送至会务邮箱，会议仅邀请 100 人参加。",
+    "target": "国内外高校、研究机构及相关国际组织的小岛屿研究学者与研究生",
+    "university": "大连大学",
+    "valueTags": [
+      "大连大学官方",
+      "区域国别研究",
+      "学术论坛"
+    ]
+  },
+  {
+    "applyEmail": "",
+    "applyLink": "https://icc2027.ieee-icc.org/",
+    "city": "美国·华盛顿",
+    "college": "ICC 2027 组委会",
+    "content_hash": "0cca7dfac8bca3cc1b20aa991fa223de51e92f595001ff07f098c4acb3f98438",
+    "createdAt": 1788136806689,
+    "deadline": "2026年10月2日",
+    "details": "2027 IEEE 国际通信会议（ICC 2027）将于 2027 年 5 月 30 日-6 月 3 日在美国华盛顿特区举行，覆盖通信网络、无线通信、光通信、网络安全等方向，论文提交截止 2026 年 10 月 2 日，录用通知 2027 年 1 月 15 日。",
+    "duration": "2027年5月30日-6月3日",
+    "fee": "会议注册费以官方为准",
+    "format": "线下（美国·华盛顿）",
+    "id": "db10f01b",
+    "project": "IEEE ICC 2027 论文投稿（通信旗舰会议）",
+    "quota": "",
+    "requirements": "通过 ICC 2027 投稿系统提交论文，论文截止 2026 年 10 月 2 日，工作坊提案截止 9 月 7 日。",
+    "target": "全球通信、网络、信号处理及相关领域研究者与研究生",
+    "university": "IEEE 通信学会",
+    "valueTags": [
+      "IEEE官方",
+      "通信顶会",
+      "论文投稿"
     ]
   },
   {
@@ -2350,54 +2398,6 @@
       "WHO官方",
       "国际组织实习",
       "长期滚动"
-    ]
-  },
-  {
-    "applyEmail": "",
-    "applyLink": "https://cscw.acm.org/rolling.html",
-    "city": "以官网为准",
-    "college": "CSCW 组委会",
-    "content_hash": "291480b88143486fd9b0c12cc13aacc682976a0d6e9f37e78ebdf6c065ba7379",
-    "createdAt": 1788136808404,
-    "deadline": "长期开放（滚动投稿，无固定截止）",
-    "details": "ACM CSCW（Proceedings of the ACM on Human-Computer Interaction 期刊与会议联动）自 2026 年起实行滚动投稿机制，论文可随时提交、全年评审，录用后按年度会议发布，2027 年会议论文即采用该模式。",
-    "duration": "滚动评审",
-    "fee": "会议注册费以官方为准",
-    "format": "线上投稿+线下会议（地点以官网为准）",
-    "id": "a55c5204",
-    "project": "ACM CSCW 2027 论文投稿（计算机支持协同工作，滚动投稿）",
-    "quota": "",
-    "requirements": "通过 Manuscript Central（mc.manuscriptcentral.com/pacmhci）随时提交论文，无固定截止日期，具体见 CSCW 官网滚动投稿说明。",
-    "target": "全球人机交互、协同工作、社会计算领域研究者与研究生",
-    "university": "ACM SIGCHI",
-    "valueTags": [
-      "ACM SIGCHI官方",
-      "滚动投稿",
-      "CSCW"
-    ]
-  },
-  {
-    "applyEmail": "",
-    "applyLink": "https://jobs.unicef.org/",
-    "city": "全球（含远程）",
-    "college": "人力资源部",
-    "content_hash": "4b8272c93e993bedf0d92ba6a22544d6443317c66597c9a6b974395c353b7072",
-    "createdAt": 1788136681015,
-    "deadline": "长期开放",
-    "details": "联合国儿童基金会面向全球在校本科生、研究生与近两年毕业生提供带薪实习机会，覆盖教育、健康、儿童保护、数据、传播、信息技术等专业领域，实习期 6-26 周，岗位全年滚动发布、逐岗截止。",
-    "duration": "6-26周",
-    "fee": "带薪实习（以官方为准）",
-    "format": "线下/远程/混合（全球）",
-    "id": "101a2924",
-    "project": "UNICEF 实习项目（全球多岗位，长期滚动招募）",
-    "quota": "",
-    "requirements": "在 UNICEF 官方招聘门户 jobs.unicef.org 检索实习岗位并在线申请，每个岗位有独立截止时间，建议尽早提交。",
-    "target": "全球在读本科生/研究生或毕业两年内青年（年满18岁，英语流利）",
-    "university": "联合国儿童基金会（UNICEF）",
-    "valueTags": [
-      "UNICEF官方",
-      "国际组织实习",
-      "长期招募"
     ]
   }
 ]

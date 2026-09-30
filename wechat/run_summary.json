@@ -1,0 +1,7 @@
+{
+  "account": "长江实验室",
+  "checked_at": "2026-09-30T20:05:05+08:00",
+  "message": "请先在本机 WechRss 扫码并添加长江实验室文章链接",
+  "schema_version": 1,
+  "status": "setup_required"
+}
