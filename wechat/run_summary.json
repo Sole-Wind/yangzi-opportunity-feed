@@ -1,7 +1,9 @@
 {
   "account": "长江实验室",
-  "checked_at": "2026-09-30T20:05:05+08:00",
-  "message": "请先在本机 WechRss 扫码并添加长江实验室文章链接",
+  "checked_at": "2026-09-30T20:50:43+08:00",
+  "message": "WechRss 最近一次同步未成功",
   "schema_version": 1,
-  "status": "setup_required"
+  "source_status": "risk_control",
+  "source_synced_at": "2026-09-30T20:48:52+08:00",
+  "status": "source_error"
 }
