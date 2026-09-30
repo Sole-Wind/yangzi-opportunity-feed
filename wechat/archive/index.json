@@ -1,4 +1,21 @@
 {
-  "batches": [],
+  "batches": [
+    {
+      "checked_at": "2026-09-30T21:03:42+08:00",
+      "id": "20260930T130342520379Z",
+      "new_articles": "wechat/archive/20260930T130342520379Z/new_articles.json",
+      "new_count": 0,
+      "updated_articles": "wechat/archive/20260930T130342520379Z/updated_articles.json",
+      "updated_count": 0
+    },
+    {
+      "checked_at": "2026-09-30T21:07:13+08:00",
+      "id": "20260930T130713293283Z",
+      "new_articles": "wechat/archive/20260930T130713293283Z/new_articles.json",
+      "new_count": 0,
+      "updated_articles": "wechat/archive/20260930T130713293283Z/updated_articles.json",
+      "updated_count": 83
+    }
+  ],
   "schema_version": 1
 }

@@ -1,14 +1,14 @@
 {
   "account": "长江实验室",
-  "batch_id": "20260930T130713293283Z",
-  "checked_at": "2026-09-30T21:07:13+08:00",
-  "initial_baseline": false,
-  "missing_links": 0,
+  "batch_id": "20260930T130342520379Z",
+  "checked_at": "2026-09-30T21:03:42+08:00",
+  "initial_baseline": true,
+  "missing_links": 83,
   "new_articles": 0,
   "schema_version": 1,
   "source_latest_published_at": "2026-09-28T11:11:58+08:00",
   "source_synced_at": "2026-09-30T21:03:23+08:00",
   "status": "success",
   "total_articles": 83,
-  "updated_articles": 83
+  "updated_articles": 0
 }
