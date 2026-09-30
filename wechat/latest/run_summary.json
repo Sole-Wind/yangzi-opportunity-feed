@@ -1,14 +1,24 @@
 {
-  "account": "长江实验室",
-  "batch_id": "20260930T130713293283Z",
-  "checked_at": "2026-09-30T21:07:13+08:00",
+  "account": "公众号合集",
+  "batch_id": "20260930T134404993112Z",
+  "checked_at": "2026-09-30T21:44:04+08:00",
   "initial_baseline": false,
   "missing_links": 0,
   "new_articles": 0,
-  "schema_version": 1,
+  "schema_version": 2,
   "source_latest_published_at": "2026-09-28T11:11:58+08:00",
   "source_synced_at": "2026-09-30T21:03:23+08:00",
+  "sources": [
+    {
+      "account": "长江实验室",
+      "article_count": 83,
+      "book_id": "MP_WXS_3632729304",
+      "source_status": "ok",
+      "source_synced_at": "2026-09-30T21:03:23+08:00",
+      "status": "success"
+    }
+  ],
   "status": "success",
   "total_articles": 83,
-  "updated_articles": 83
+  "updated_articles": 1
 }

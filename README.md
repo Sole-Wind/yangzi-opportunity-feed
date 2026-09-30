@@ -1,15 +1,22 @@
 # ChangJiangLab opportunity feed
 
-This repository is an automated data mirror of the public ChangJiangLab
-project aggregation API: https://xiangshanlab.shu.edu.pl/api/projects
+The active feed is public article metadata from WeChat accounts subscribed
+in the dedicated local source. It is collected twice weekly, on Tuesday
+at 10:00 and Thursday at 16:00 Asia/Shanghai time. A separate screening
+run should check the WeChat status before drawing conclusions.
+
+The earlier ChangJiangLab project aggregation API snapshot is kept here as
+historical reference. Its collection stopped on 2026-09-30 because the API
+did not reflect recent WeChat articles. Do not treat its age as a current
+collection failure or as evidence that there are no new opportunities.
 
 Aggregation entries are not official announcements. Eligibility, deadlines,
 fees, funding and application instructions must be verified on official project
 pages. This mirror supports personal research opportunity screening.
 
 Read `run_summary.json` to check freshness and collection status.
-The separate `wechat/` folder contains public article metadata from the
-ChangJiangLab WeChat account when the local subscription is configured.
+The `wechat/` folder contains public article metadata from the subscribed
+accounts. `wechat/run_summary.json` includes per-account source health.
 Its `run_summary.json` reports subscription health; `archive/index.json`
 lists incremental article batches. No WeRead credentials or article bodies
 are published.

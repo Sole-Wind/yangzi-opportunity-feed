@@ -10,8 +10,8 @@
   "source_latest_created_at": "2026-09-04T09:37:44+08:00",
   "source_max_age_days": 21,
   "source_total": 894,
-  "started_at": "2026-09-30T20:04:46+08:00",
-  "started_at_known": true,
+  "started_at": null,
+  "started_at_known": false,
   "status": "source_age_warning",
   "total_projects": 894,
   "updated_projects": 0
