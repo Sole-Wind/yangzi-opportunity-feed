@@ -1,24 +1,32 @@
 {
   "account": "公众号合集",
-  "batch_id": "20260930T134404993112Z",
-  "checked_at": "2026-09-30T21:44:04+08:00",
+  "batch_id": "20261001T120704986437Z",
+  "checked_at": "2026-10-01T20:07:04+08:00",
   "initial_baseline": false,
   "missing_links": 0,
-  "new_articles": 0,
+  "new_articles": 21,
   "schema_version": 2,
-  "source_latest_published_at": "2026-09-28T11:11:58+08:00",
-  "source_synced_at": "2026-09-30T21:03:23+08:00",
+  "source_latest_published_at": "2026-09-29T20:13:06+08:00",
+  "source_synced_at": "2026-10-01T20:07:03+08:00",
   "sources": [
     {
       "account": "长江实验室",
       "article_count": 83,
       "book_id": "MP_WXS_3632729304",
       "source_status": "ok",
-      "source_synced_at": "2026-09-30T21:03:23+08:00",
+      "source_synced_at": "2026-10-01T20:07:04+08:00",
+      "status": "success"
+    },
+    {
+      "account": "旷野鹿鸣",
+      "article_count": 21,
+      "book_id": "MP_WXS_3938645026",
+      "source_status": "ok",
+      "source_synced_at": "2026-10-01T20:07:03+08:00",
       "status": "success"
     }
   ],
   "status": "success",
-  "total_articles": 83,
-  "updated_articles": 1
+  "total_articles": 104,
+  "updated_articles": 0
 }

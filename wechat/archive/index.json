@@ -23,6 +23,14 @@
       "new_count": 0,
       "updated_articles": "wechat/archive/20260930T134404993112Z/updated_articles.json",
       "updated_count": 1
+    },
+    {
+      "checked_at": "2026-10-01T20:07:04+08:00",
+      "id": "20261001T120704986437Z",
+      "new_articles": "wechat/archive/20261001T120704986437Z/new_articles.json",
+      "new_count": 21,
+      "updated_articles": "wechat/archive/20261001T120704986437Z/updated_articles.json",
+      "updated_count": 0
     }
   ],
   "schema_version": 1
